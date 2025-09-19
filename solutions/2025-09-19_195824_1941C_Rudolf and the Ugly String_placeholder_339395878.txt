@@ -1,0 +1,6 @@
+Problem: 1941C
+Name: Rudolf and the Ugly String
+Language: Python 3
+Problem URL: https://codeforces.com/contest/1941/problem/C
+Submission: https://codeforces.com/contest/1941/submission/339395878
+Saved at: 2025-09-19 19:58:24
